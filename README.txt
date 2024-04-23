@@ -1,0 +1,2 @@
+WordPress sử dụng cấu trúc phân cấp mẫu để xác định file mẫu nào sẽ được tải. Đó là bản chất là một tập hợp các quy tắc xác định mẫu nào sẽ được sử dụng dựa trên trang web đang xem. Nếu một mẫu không tồn tại, WordPress sẽ tiếp tục tìm kiếm xuống theo cấu trúc phân cấp cho đến khi tìm thấy một mẫu tồn tại.
+Nếu không tìm thấy mẫu cụ thể nào, nó sẽ sử dụng mẫu Chỉ mục: index.html. Như bạn đã học trong Cấu trúc Theme, đây là mẫu tối thiểu cần thiết cho một theme khối để hoạt động.

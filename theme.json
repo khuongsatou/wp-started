@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"palette": [
+				{
+					"color": "#0284c7",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "red",
+					"name": "Đỏ",
+					"slug": "Red"
+				}
+			]
+		}
+	},
+    "styles": {},
+	"customTemplates": {},
+	"templateParts": {},
+	"patterns": []
+}
